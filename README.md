@@ -1,10 +1,12 @@
 # HW14 :https://shrikant192000.github.io/HW14/
 **Timer with Start, Stop, and Reset Functionality**
 
-**Overview**
+**Overview**:-
+
 This project implements a timer with start, stop, and reset functionality using HTML, CSS, and JavaScript. The timer is displayed on a web page with three buttons: Start, Stop, and Reset. The user can click the buttons to control the timer.
 
-**How it Works**
+**How it Works**:-
+
 **HTML**
 The HTML structure includes a timer container div, a timer display element with the timer id, and three buttons (Start, Stop, Reset) with corresponding ids and classes.
 
@@ -21,7 +23,7 @@ The stopTimer function stops the timer by clearing the interval and re-enables t
 The resetTimer function resets the timer by clearing the interval, setting the elapsed time to 0, and displaying "00:00:00.00". It also re-enables the "Start" button.
 Timer with Start, Stop, and Reset Functionality
 
-**How to Use**
+**How to Use**:-
 Open the index.html file in a web browser.
 You will see the timer displayed at the top, along with the "Start," "Stop," and "Reset" buttons.
 Click the "Start" button to begin the timer. It will start counting up.
